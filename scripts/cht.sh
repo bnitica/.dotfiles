@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 function chtsh() {
 	languages="javascript python ansible lua typescript"
